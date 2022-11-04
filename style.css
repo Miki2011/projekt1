@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(75, 90, 14);
+}
+.nawigacja{
+   display: flex;
+   gap: 20px;
+   background-color: chartreuse; 
+}
